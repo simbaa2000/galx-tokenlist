@@ -107,7 +107,7 @@
     "name": "TokenDao",
     "homepage": "https://tkn.eth.limo"
   },
-  "https://gateway.ipfs.io/ipns/tokens.uniswap.org": {
+  "https://ipfs.io/ipns/tokens.uniswap.org": {
     "name": "Uniswap Default List",
     "homepage": ""
   },
