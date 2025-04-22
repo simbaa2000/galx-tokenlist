@@ -1,13 +1,28 @@
-## Token lists website.
+# Galaxy Token List
 
-![Token lists](https://github.com/Uniswap/tokenlists-org/blob/master/public/card.png?raw=true)
+This repository contains the official token list for the Galaxy ecosystem.
 
-A site to help users discover and get info about lists.
+## Details
 
-Token Lists is a community-led initiative to improve discoverability, reputation and trust in ERC20 token lists in a manner that is inclusive, transparent, and decentralized.
+- **List Name**: Galaxy Token List
+- **Filename**: galaxy-tokenlist.json
+- **Maintainer**: simbaa2000
+- **Hosted at**: https://ipfs.io/ipfs/bafkreib3ierw73x5slsmfigtjxdzdn4l377lavtoyjmvrgqckkpojywwoe
 
-Read the specification for more information: https://github.com/Uniswap/token-lists
+The Galaxy Token List follows the [Uniswap Token List schema](https://uniswap.org/tokenlist-schema) and contains verified information about Galaxy ecosystem tokens.
 
----
+## File Structure
 
-Uses CRA. `yarn` and `yarn start` to develop.
+- `galaxy-tokenlist.json`: Token list in JSON format, compatible with Uniswap, 1inch, and other DeFi apps.
+
+## How to Use
+
+You can import this list into DeFi applications that support Token Lists, or manually add individual tokens from the list by using their contract addresses.
+
+## Hosting
+
+https://ipfs.io/ipfs/bafkreib3ierw73x5slsmfigtjxdzdn4l377lavtoyjmvrgqckkpojywwoe
+
+## License
+
+MIT
